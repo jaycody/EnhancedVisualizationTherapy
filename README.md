@@ -2,6 +2,6 @@
 Interactive Telecommunications Program - NYU  
 Spring 2012  
 
-Enhanced Visualization Therpay  
+Enhanced Visualization Therapy  
 jason stephens
 
