@@ -1,0 +1,13 @@
+So basically, what this does is draw a mask where OpenNI senses a body.
+
+//---------
+Hit 'c' to calibrate the keystone(projector calibration') in the Processing sketch.  Hit 's' to save it.  And then hit 'l' to load it.  That way whenever you start the sketch, you just have to hit 'l' and it'll load.  
+
+	Also. It saves one folder behind the sketches folder. So if you hit 'save as', as you iterate the code…it will still save and read to the same text file.  
+
+//---------
+
+This sends the values over OSC. Then Laban6 Draws them responding to the users' hands.
+
+//---------
+

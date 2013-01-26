@@ -1,0 +1,23 @@
+So basically, what this does is draw a mask where OpenNI senses a body.
+
+//---------
+Hit 'c' to calibrate the keystone(projector calibration') in the Processing sketch.  Hit 's' to save it.  And then hit 'l' to load it.  That way whenever you start the sketch, you just have to hit 'l' and it'll load.  
+
+	Also. It saves one folder behind the sketches folder. So if you hit 'save as', as you iterate the code…it will still save and read to the same text file.  
+
+//---------
+
+Instead of drawing in the sketch, it sends it out over Syphon.
+
+Then I read it into Isadora.  
+
+//---------
+
+In Isadora I connect it to an alpha mask, that works with a foreground image and a background image.
+
+And draw that into a "actor" in Isadora that I use to keystone it all.
+
+//---------
+The actor in Isadora is a little buggy.  So once you start the sketch: hit 'q' and then move the arrows left and right.  hit w, and arrow keys left and right.  hit 'a' and that does the bottom left corner.  and's' does the bottom right.
+
+If you go with the Isadora route though lemme know - and I can do a quick drive by again.
