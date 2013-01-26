@@ -7,17 +7,17 @@ Enhanced Visualization Therapy
 
 jason stephens  
 
-Project Website:   
+###Project Website:   
 [Interactive Healing Spaces] (www.interactivehealingspaces.com)  
 
-Project Documentation:  
+###Project Documentation:  
 [NYU Thesis] (http://itp.nyu.edu/~js5346/jayblog/ITP/nyu-thesis/)  
 
-Project Videos:
+###Project Videos:
 [Vimeo] (https://vimeo.com/album/2004737)    
 [youTube] (http://www.youtube.com/user/jaycody9)
 
-##Press:    
+###Press:    
 [CNET] (http://news.cnet.com/8301-27083_3-20070346-247/kinect-hack-allows-for-intelligent-healing-massage/)    
 [Gizmodo] (http://gizmodo.com/5910630/i-let-a-weird-man-rub-me-for-10-minutes-in-the-name-of-journalism)  
 [PCWorld] (http://www.techhive.com/article/227759/kinect_hack_helps_therapists_track_their_session_progress.html)  
