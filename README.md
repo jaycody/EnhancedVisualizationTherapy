@@ -11,7 +11,7 @@ jason stephens
 [Interactive Healing Spaces] (http://www.interactivehealingspaces.com)  
 
 ###Project Documentation:  
-[NYU Thesis] (http://www.itp.nyu.edu/~js5346/jayblog/ITP/nyu-thesis/)  
+[NYU Thesis] (http://www.tronik.tv)  
 
 ###Project Videos:
 [Vimeo] (https://vimeo.com/album/2004737)    
