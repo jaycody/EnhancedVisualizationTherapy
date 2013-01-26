@@ -14,7 +14,7 @@ Project Documentation:
 [NYU Thesis] (http://itp.nyu.edu/~js5346/jayblog/ITP/nyu-thesis/)  
 
 Project Videos:
-[Vimeo] (https://vimeo.com/album/2004737)  
+[Vimeo] (https://vimeo.com/album/2004737)    
 [youTube] (http://www.youtube.com/user/jaycody9)
 
 ##Press:    
@@ -38,16 +38,18 @@ In the massage community, ancient modalities are often respected the most. But I
 
 Software Description:
 
-1. Massage Table Matrix
-Basically a Conway Game of Life existing on the massage table.  Goal:  propagating waves and interference patterns affected by client’s body on the table
+1. Massage Table Matrix:    
+A Conway Game of Life existing on the massage table.  Goal:  propagating waves and interference patterns affected by client’s body on the table
 
-2. Virtual Pressure Objects
+2. Acu2D:  Virtual Pressure Objects.  
 2-D objects projected directly onto the client
 
-3. Depth Informed Flow Field
+3. AcuAR:  Augmented Reality Acupressure
+
+4. Depth Informed Flow Field:    
 A particle system whose behavior is informed by depth and movement on and around the massage table
 
-4. Proprioception Enhancement (PET)
+5. Proprioception Enhancement Tools (PET):    
 This app combines the scene’s RGB information with its point cloud information.  The Processing version proved to be too slow.  An OpenFrameworks version 
 
  
