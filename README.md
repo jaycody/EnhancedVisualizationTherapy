@@ -5,22 +5,21 @@ Spring 2012
 Enhanced Visualization Therapy  
 	- aka: Intelligent Healing Spaces or Interactive Healing Spaces  
 
-jason stephens  
 
 ### R&D Documentation:   
-[Interactive Healing Spaces] (https://www.flickr.com/photos/jaycody9/albums/72157637800982304)  
+[Interactive Healing Spaces](https://www.flickr.com/photos/jaycody9/albums/72157637800982304)  
 
 ### Project Videos:
-[Vimeo] (https://vimeo.com/album/2004737)    
-[youTube] (http://www.youtube.com/user/jaycody9)
+[Vimeo](https://vimeo.com/album/2004737)    
+[youTube](http://www.youtube.com/user/jaycody9)
 
 ### Press:    
-[CNET] (http://news.cnet.com/8301-27083_3-20070346-247/kinect-hack-allows-for-intelligent-healing-massage/)    
-[Gizmodo] (http://gizmodo.com/5910630/i-let-a-weird-man-rub-me-for-10-minutes-in-the-name-of-journalism)  
-[PCWorld] (http://www.techhive.com/article/227759/kinect_hack_helps_therapists_track_their_session_progress.html)  
-[engadget] (http://www.engadget.com/2011/05/14/kinect-hack-enables-psychedelic-acupressure-far-out-graphics-v/)  
-[MedGadget:  Journal of Emerging Medical Technologies] (http://www.medgadget.com/2011/06/kinect-helps-power-a-futuristic-massage-table.html)  
-[KinectHacks] (http://www.kinecthacks.com/massage-therapy-using-the-kinect/)  
+[CNET](http://news.cnet.com/8301-27083_3-20070346-247/kinect-hack-allows-for-intelligent-healing-massage/)    
+[Gizmodo](http://gizmodo.com/5910630/i-let-a-weird-man-rub-me-for-10-minutes-in-the-name-of-journalism)  
+[PCWorld](http://www.techhive.com/article/227759/kinect_hack_helps_therapists_track_their_session_progress.html)  
+[engadget](http://www.engadget.com/2011/05/14/kinect-hack-enables-psychedelic-acupressure-far-out-graphics-v/)  
+[MedGadget:  Journal of Emerging Medical Technologies](http://www.medgadget.com/2011/06/kinect-helps-power-a-futuristic-massage-table.html)  
+[KinectHacks](http://www.kinecthacks.com/massage-therapy-using-the-kinect/)  
 
 ________
 
